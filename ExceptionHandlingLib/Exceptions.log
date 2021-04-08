@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-02-12T11:07:39</date>
+  <millis>1613108259037</millis>
+  <sequence>0</sequence>
+  <logger>ExceptionLogs</logger>
+  <level>INFO</level>
+  <class>perennialbank.excpt.Logact</class>
+  <method>performAction</method>
+  <thread>1</thread>
+  <message>/Something Went Wrong</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-02-12T11:26:15</date>
+  <millis>1613109375076</millis>
+  <sequence>0</sequence>
+  <logger>ExceptionLogs</logger>
+  <level>INFO</level>
+  <class>perennialbank.excpt.Logact</class>
+  <method>performAction</method>
+  <thread>1</thread>
+  <message>/Something Went Wrong</message>
+</record>
+</log>
+Feb 12, 2021 1:13:12 PM perennialbank.excpt.Logact performAction
+INFO: /Something Went Wrong
+Feb 12, 2021 1:13:58 PM perennialbank.excpt.Logact performAction
+INFO: /Something Went Wrong
+Feb 12, 2021 1:48:28 PM perennialbank.excpt.Logact performAction
+INFO: /Something Went Wrong
